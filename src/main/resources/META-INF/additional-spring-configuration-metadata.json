@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "image.folder.path",
+      "type": "java.lang.String",
+      "description": "Image folder path."
+    },
+    {
+      "name": "private.key",
+      "type": "java.lang.String",
+      "description": "Private key."
+    }
+  ]
+}
